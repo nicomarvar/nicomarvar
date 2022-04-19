@@ -58,7 +58,7 @@ I am Nicolás Martinez, I am a tech enthusiast e that loves learning, I have con
     
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="https://github.com/nicomarvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/nicomarvar/" target="blank"><img align="center" src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/nicomarvar/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="40" /></a>
     
 <br>
 
