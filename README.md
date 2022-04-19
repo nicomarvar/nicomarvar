@@ -31,6 +31,7 @@ I am Nicolás Martinez, I am a tech enthusiast e that loves learning, I have con
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000">
 </span>
 
 <h4> IDE </h4>
