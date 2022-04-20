@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolás</h1>
 
-I am Nicolás Martinez, I am a tech enthusiast e that loves learning, I have consistently continued to improve my skills and keep up-to-date with the latest technologies in software development. Whatever I don't know, I enjoy investigating and gathering new knowledge.
+I am Nicolás Martinez, I am a tech enthusiast that loves learning, I have consistently continued to improve my skills and keep up-to-date with the latest technologies in software development. Whatever I don't know, I enjoy investigating and gathering new knowledge.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicomarvar" alt="nicomarvar" /> </p>
 
