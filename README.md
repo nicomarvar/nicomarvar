@@ -31,7 +31,7 @@ I am Nicolás Martinez, I am a tech enthusiast that loves learning, I have consi
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000">
+ 
 </span>
 
 <h4> IDE </h4>
@@ -46,6 +46,7 @@ I am Nicolás Martinez, I am a tech enthusiast that loves learning, I have consi
 
 <h4> Other Tools and Technologies </h4>
 <span>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000"> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">  
